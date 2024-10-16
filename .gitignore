@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Music Advisor/*
+!/Music Advisor/task/
+/Music Advisor/task/*
+!/Music Advisor/task/src
+!/Music Advisor/task/build.gradle
